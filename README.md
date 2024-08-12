@@ -1,7 +1,24 @@
 # Blossom Theme for [App/Service/etc... Name]
 
 ## Preview
-> Add Screenshots of the theme
+![](./screenshot01.png)
+![](./screenshot02.png)
+![](./screenshot03.png)
 
 ## Installation
-> Add the method to install the theme.
+1. Clone the repository.
+```git clone https://github.com/BlossomTheme/Cava.git```
+
+2. Copy the ```config``` file to ```~/.config/cava```.
+```cp ./config ~/.config/cava```
+
+3. Run cava.
+```
+cava
+
+or 
+
+cava -p ~/.config/cava/config (if necessary)
+
+```
+
