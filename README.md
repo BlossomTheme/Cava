@@ -1,4 +1,4 @@
-# Blossom Theme for [App/Service/etc... Name]
+# Blossom Theme for Cava CLI Visualizer 
 
 ## Preview
 ![](./screenshot01.png)
@@ -22,3 +22,4 @@ cava -p ~/.config/cava/config (if necessary)
 
 ```
 
+4. Enjoy!
